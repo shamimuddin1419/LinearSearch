@@ -1,0 +1,6 @@
+E:\Algorithm\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe.config
+E:\Algorithm\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe
+E:\Algorithm\LinearSearch\LinearSearch\bin\Debug\LinearSearch.pdb
+E:\Algorithm\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csprojResolveAssemblyReference.cache
+E:\Algorithm\LinearSearch\LinearSearch\obj\Debug\LinearSearch.exe
+E:\Algorithm\LinearSearch\LinearSearch\obj\Debug\LinearSearch.pdb
