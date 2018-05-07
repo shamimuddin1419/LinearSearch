@@ -52,4 +52,4 @@ Simulation: Key 60
 
              =60 70 80 90 100 
 
-              60=60 (Found) 
+              60?60 (Found) 
